@@ -5,3 +5,7 @@ xxx
 
 ## ¡Contáctame!
 xxx
+
+## Lenguajes
+English
+Spanish
