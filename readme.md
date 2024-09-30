@@ -5,3 +5,6 @@ xxx
 
 ## ¡Contáctame!
 xxx
+
+## Pasatiempos
+Nadar
